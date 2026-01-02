@@ -1,0 +1,64 @@
+{
+  "services": [
+    {
+      "name": "Dog Grooming",
+      "slug": "dog-grooming",
+      "description": "Professional full-service dog grooming including bath, brush, trim, nail clipping, and ear cleaning. We handle all breeds from small puppies to large dogs with care and expertise."
+    },
+    {
+      "name": "Cat Grooming",
+      "slug": "cat-grooming",
+      "description": "Specialized cat grooming services with experienced handlers who understand feline behavior. Includes bathing, brushing, nail trimming, and mat removal for all cat breeds."
+    },
+    {
+      "name": "Puppy First Grooming",
+      "slug": "puppy-first-grooming",
+      "description": "Gentle introduction to grooming for puppies aged 8 weeks and up. We create a positive first experience with bath, brush, nail trim, and lots of treats and patience."
+    },
+    {
+      "name": "De-Shedding Treatment",
+      "slug": "de-shedding-treatment",
+      "description": "Professional de-shedding service to reduce excessive shedding by up to 90%. Includes specialized shampoo, conditioner, and thorough brushing to remove loose undercoat."
+    },
+    {
+      "name": "Flea and Tick Treatment",
+      "slug": "flea-tick-treatment",
+      "description": "Complete flea and tick treatment bath with medicated shampoo to eliminate parasites and soothe irritated skin. Safe for dogs and cats of all ages."
+    },
+    {
+      "name": "Nail Clipping",
+      "slug": "nail-clipping",
+      "description": "Professional nail trimming service for dogs and cats. We carefully clip nails to the appropriate length and smooth sharp edges to prevent scratching and discomfort."
+    },
+    {
+      "name": "Teeth Cleaning",
+      "slug": "teeth-cleaning",
+      "description": "Pet dental hygiene service including teeth brushing with pet-safe toothpaste to reduce plaque, tartar buildup, and prevent bad breath."
+    },
+    {
+      "name": "Breed-Specific Grooming",
+      "slug": "breed-specific-grooming",
+      "description": "Expert grooming tailored to your pet's breed standards. From poodle clips to schnauzer trims, we know the specific requirements for each breed."
+    },
+    {
+      "name": "Show Dog Preparation",
+      "slug": "show-dog-preparation",
+      "description": "Professional grooming for show dogs and competition preparation. Breed standard cuts, coat conditioning, and finishing touches for the show ring."
+    },
+    {
+      "name": "Mobile Pet Grooming",
+      "slug": "mobile-pet-grooming",
+      "description": "Convenient mobile grooming service that comes to your door. Full grooming salon in our van with all the equipment needed for professional grooming at your location."
+    },
+    {
+      "name": "Senior Pet Grooming",
+      "slug": "senior-pet-grooming",
+      "description": "Gentle grooming specifically designed for senior pets with special needs. Extra care and patience for older animals with mobility issues or health concerns."
+    },
+    {
+      "name": "Medicated Bath",
+      "slug": "medicated-bath",
+      "description": "Therapeutic bathing service using veterinarian-recommended medicated shampoos for skin conditions, allergies, or dermatological issues."
+    }
+  ]
+}
