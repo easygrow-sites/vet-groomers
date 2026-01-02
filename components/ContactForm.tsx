@@ -2,8 +2,8 @@
 
 import { useState } from "react";
 
-const BUSINESS_ID = "vet-groomers-001";
-const API_ENDPOINT = "https://dashboard-sigma-six-16.vercel.app/api/leads/submit";
+const BUSINESS_ID = "cmjwpb3wx0002mp5re0xmlwkl";
+const API_ENDPOINT = "https://www.easygrow.contractors/api/leads/submit";
 
 export default function ContactForm() {
   const [formData, setFormData] = useState({ name: "", email: "", phone: "", message: "" });
